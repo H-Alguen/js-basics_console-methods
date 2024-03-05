@@ -1,5 +1,3 @@
-console.clear();
-
 // The exercise starts here!
 
 // All console methods can be found on mdn for reference: https://developer.mozilla.org/en-US/docs/Web/API/console
@@ -17,7 +15,7 @@ let hacking = "happy hacking";
 console.log(hacking);
 
 // 5. Which method is used to clear the console? Use it to tidy up the console.
-clear();
+//clear();
 
 // 6. Store the text 'This is an error!' in the variable 'error'.
 let error = "This is an error";
